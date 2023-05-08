@@ -1,0 +1,23 @@
+{
+  "name": "create-react-with",
+  "version": "1.0.0",
+  "description": "Boilerplates for react apps with other libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npx",
+    "react",
+    "create",
+    "next.js",
+    "electron",
+    "puppeteer"
+  ],
+  "author": "ahmedissaoui",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "shelljs": "^0.8.5"
+  }
+}
